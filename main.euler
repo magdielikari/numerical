@@ -1,0 +1,7 @@
+f='sin(x)';
+a=0;
+b=3.1416;
+ya=0;
+M=100;
+E=euler(f,a,b,ya,M);
+E
